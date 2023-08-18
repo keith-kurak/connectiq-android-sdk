@@ -39,6 +39,6 @@ dependencies {
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.5.1")
 
-    implementation("com.garmin.connectiq:ciq-companion-app-sdk:2.0.1@aar")
+    implementation("com.garmin.connectiq:ciq-companion-app-sdk:2.0.2@aar")
     implementation("androidx.appcompat:appcompat:1.5.1")
 }
